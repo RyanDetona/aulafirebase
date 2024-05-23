@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:825922463641:android:c52ac51072b2879c75d508",
         "android_client_info": {
-          "package_name": "com.aula.firebase.flutterFirebase"
+          "package_name": "com.aula.firebase.flutterfirebase"
         }
       },
       "oauth_client": [],
