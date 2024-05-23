@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825922463641",
+    "project_id": "ryanpersistencia-e45aa",
+    "storage_bucket": "ryanpersistencia-e45aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825922463641:android:c52ac51072b2879c75d508",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutterFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX44A5xZLrbhlge3Z5C95_83N0-dCq4Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
